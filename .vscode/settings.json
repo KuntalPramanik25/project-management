@@ -1,0 +1,8 @@
+{
+    "window.autoDetectColorScheme": false,
+    "window.closeWhenEmpty": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": false,
+    "terminal.integrated.fontFamily": "Fira Code",
+}
